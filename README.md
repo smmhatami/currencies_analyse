@@ -1,5 +1,8 @@
 # راهنمای استفاده از نمودار مقایسه‌ی ارز
 
+<img width="1726" height="667" alt="Screenshot from 2025-11-06 13-24-30" src="https://github.com/user-attachments/assets/9e38ed7b-5ea4-47be-821d-ebfedb2fbc3f" />
+
+
 این راهنما به شما کمک می‌کند تا **بدون پیش‌فرضی از ابزارهای فنی**، فایل `*.ipynb` را در VS Code اجرا کرده و نمودار تعاملی آن را مشاهده کنید.
 
 ---
