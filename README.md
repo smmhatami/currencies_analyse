@@ -10,7 +10,7 @@
 ---
 # راه ۱ : استفاده از Google Colab 
 
-1. از طریق [این لینک]([url](https://drive.google.com/file/d/1mNSbBRLV1Zritfu-aT58B6hLcGbQ02mF/view?usp=sharing)) وارد پروژه شوید.
+1. از طریق [این لینک](https://drive.google.com/file/d/1mNSbBRLV1Zritfu-aT58B6hLcGbQ02mF/view?usp=sharing) وارد پروژه شوید.
 
 2. از منوی کناری، آیکون فایل را انتخاب کرده و از طریق دکمه‌ی upload to session storage فایل Currency_with_cpi.xlsx را بارگزاری کنید.
 
